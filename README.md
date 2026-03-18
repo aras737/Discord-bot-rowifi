@@ -1,2 +1,2 @@
-# Discord-bot-rowifi
-Izıaıa
+# erensibot
+EQWWQSAOFJFJAPJGOPAKOSPPO ERENSİ KARDEŞİM UÇAK GELİYOR
