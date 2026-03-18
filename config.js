@@ -1,5 +1,5 @@
 module.exports = {
-    token: "tokeni girin (zorunlu)", 
+    token: process.env.TOKEN,
     prefix: "e!",
     botdavet: "(zorunlu)",
     desteksunucusu: "(zorunlu)",
